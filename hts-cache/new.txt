@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:23:10	734/734	---MCZ	200	added ('OK')	text/html	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/borrow	C:/My%20Web%20Sites/newape/ape.fi/borrow.html	(from )
+20:23:10	78/78	U-----	200	untouched ('OK')	text/plain	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/robots.txt		(from )
+20:24:47	296/296	U-----	200	untouched ('')	application/json	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/manifest.json	C:/My%20Web%20Sites/newape/ape.fi/manifest.json	(from https://ape.fi/borrow)
+20:24:57	1150/1150	U-----	200	untouched ('')	image/x-icon	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/favicon.ico	C:/My%20Web%20Sites/newape/ape.fi/favicon.ico	(from https://ape.fi/borrow)
+20:24:57	1826350/1826350	U-----	200	untouched ('')	text/javascript	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/static/js/main.1caa0bfc.js	C:/My%20Web%20Sites/newape/ape.fi/static/js/main.1caa0bfc.js	(from https://ape.fi/borrow)
+20:24:57	231758/231758	U-----	200	untouched ('')	image/png	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/og.png	C:/My%20Web%20Sites/newape/ape.fi/og.png	(from https://ape.fi/borrow)
+20:24:58	515/515	U-----	200	untouched ('OK')	text/css	date:Tue,%2014%20Jun%202022%2012:53:33%20GMT	https://ape.fi/static/css/main.8c8118de.css	C:/My%20Web%20Sites/newape/ape.fi/static/css/main.8c8118de.css	(from https://ape.fi/borrow)
